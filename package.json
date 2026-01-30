@@ -1,10 +1,10 @@
 {
-  "name": "create-no-framework",
-  "version": "1.0.4",
+  "name": "no-framework",
+  "version": "1.0.5",
   "description": "A CLI tool to create a no-framework backend project with Node.js or Bun",
   "main": "index.js",
   "bin": {
-    "create-no-framework": "./index.js"
+    "no-framework": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

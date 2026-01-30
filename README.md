@@ -11,13 +11,13 @@ No installation needed! Simply use the `npm create` or `pnpm create` command to 
 Run the following command to create a new project:
 
 ```bash
-npm create no-framework
+npm i no-framework
 ```
 
 Or if you prefer pnpm:
 
 ```bash
-pnpm create no-framework
+pnpm i no-framework
 ```
 
 The CLI will prompt you for:
