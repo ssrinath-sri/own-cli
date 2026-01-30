@@ -4,9 +4,7 @@ A CLI tool to scaffold a backend project with no framework, using Node.js or Bun
 
 ## Installation
 
-To use this tool, you need to install it globally or use `npm create` or `pnpm create`.
-
-First, publish this package to npm (or use npx if not published).
+No installation needed! Simply use the `npm create` or `pnpm create` command to scaffold a new project.
 
 ## Usage
 
@@ -14,7 +12,11 @@ Run the following command to create a new project:
 
 ```bash
 npm create no-framework
-# or
+```
+
+Or if you prefer pnpm:
+
+```bash
 pnpm create no-framework
 ```
 
